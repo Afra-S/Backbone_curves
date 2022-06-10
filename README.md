@@ -1,9 +1,5 @@
 # Backbone_curves
 
-In the file curves_single.sh, you should change
-
-1) the folder where the code is installed 
-2) the line with 1:188. 188 represents the number of bases in the PDB
 
 OUTPUT
 
